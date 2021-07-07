@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaf6971
-- 👀 I’m interested in Java Enterprise programming
-- 🌱 I’m currently learning Java Core/Spring/PostgreSQL
+- 👀 I’m interested in Python Backend Development with Django
+- 🌱 I’m currently learning Python/Django/SQL
 - 💞️ I’m looking to collaborate on some pet project
 - 📫 How to reach me... IDK
 
