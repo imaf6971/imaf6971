@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @imaf6971
-- 👀 I’m interested in Python Backend Development with Django
-- 🌱 I’m currently learning Python/Django/SQL
+- 👀 I’m interested in Many cool things, such as:
+- Java development with Spring Framework
+- Databases
+- Functional Programming 
 - 💞️ I’m looking to collaborate on some pet project
 - 📫 How to reach me... IDK
 
