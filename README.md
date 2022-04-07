@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on some pet project
 - 📫 How to reach me... IDK
 - Right now i'm learning at 42 programming school! Check it out!
- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/erayl)](https://github.com/JaeSeoKim/badge42)
+[![erayl's 42 stats](https://badge42.vercel.app/api/v2/cl1olpvht001109mbov5zsbw9/stats?cursusId=21&coalitionId=100)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 imaf6971/imaf6971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
