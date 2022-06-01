@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @imaf6971
 - 👀 I’m interested in Many cool things, such as:
-  - ☕️ Java development with 🍃 Spring Framework
-  - Databases (🐬 MySQL, 🐘 PostgreSQL)
+  - Dart Programming Language and Flutter Framework
+  - JavaScript, node, and React
+  - Rust Programming Language
+  - Databases (🐬 MySQL, 🐘 PostgreSQL, and MongoDB)
 - 📫 Feel free to write me!
   - ✈️Telegram: @imaf6971
   - 📘 VK: @imaf6971
