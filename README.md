@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @imaf6971
 - 👀 I’m interested in Many cool things, such as:
-  - Dart Programming Language and Flutter Framework
-  - JavaScript, node, and React
+  - Java and Spring Framework
+  - TypeScript and SolidJS
   - Rust Programming Language
+  - Functional Programming and Haskell
   - Databases (🐬 MySQL, 🐘 PostgreSQL, and MongoDB)
 - 📫 Feel free to write me!
   - ✈️Telegram: @imaf6971
