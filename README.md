@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @imaf6971
 - 👀 I’m interested in Many cool things, such as:
-  - Java and Spring Framework
-  - TypeScript and SolidJS
+  - TypeScript, typesafety and T3 stack
   - Rust Programming Language
-  - Functional Programming and Haskell
-  - Databases (🐬 MySQL, 🐘 PostgreSQL, and MongoDB)
+  - Functional Programming
+  - (Neo)Vim enthusiast
+  - Databases
+    - 🪶 SQLite for side projects
+    - 🐬 MySQL as daily driver
+    - 🐘 PostgreSQL as most interest for me
 - 📫 Feel free to write me!
   - ✈️Telegram: @imaf6971
   - 📘 VK: @imaf6971
